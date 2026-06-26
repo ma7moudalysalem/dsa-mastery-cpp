@@ -1,0 +1,22 @@
+# Compiled binaries and build output
+*.o
+*.obj
+*.exe
+*.out
+a.out
+build/
+bin/
+cmake-build-*/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Local scratch
+scratch/
+notes.local.md
+*.local.md
